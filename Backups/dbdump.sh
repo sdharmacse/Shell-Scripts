@@ -5,7 +5,7 @@ DAY=`/bin/date +%Y%m%d`
 
 mysqldump --port=3306 -u root -h 10.172.69.11 -p#dharma@123 --routines teamsdev62 > /root/db-bk/teamsdev62-.$DAY.sql
 
-
+###Testing
 
 
 
